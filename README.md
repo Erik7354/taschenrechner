@@ -11,7 +11,7 @@ Of course my teacher suggested me to add PEMDAS rules as advanced task.
 
 ## V2
 
-V2 then added PEMDAS rules and also automatically showed the user which buttons can be pressed and disabled all others. Though the coloring for this feature seems broken.
+V2 then added PEMDAS rules and also automatically showed the user which buttons can be pressed and disabled all others. Though the coloring for this feature seems broken. V2 was implemented using a Stack for storing and decoding the calculation.
 
 ## Disclaimer
 
